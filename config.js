@@ -20,7 +20,7 @@ module.exports = {
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "00fbff",
-  errorLog: "1218948101981868105", 
+  errorLog: "1219371388553527376", 
 
 }
 /*
