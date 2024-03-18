@@ -33,7 +33,7 @@ module.exports = {
         '**/setup :** Set up the ticket system for your server.\n' +
         '**/reset :** Clear the setup done to server.\n' +
         '**/ping :** check bot latencey.\n' +
-        '**/support :** Display support server info');
+        '**/support :** https://discord.gg/6kvJChM28m');
 
       return interaction.reply({ embeds: [embed] });
     } catch (e) {
